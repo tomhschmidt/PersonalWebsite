@@ -1,0 +1,22 @@
+{
+    "firstName": "Tom",
+    "lastName": "Schmidt",
+    "middleInitial": "H",
+    "age": 21,
+    "location": {
+        "name-en": "Stanford, CA",
+        "coords": {
+            "x": 2515,
+            "y": 211
+        }
+    },
+    "contact": {
+        "email": [
+            "me@tomhschmidt.com",
+            "imtomhschmidt@gmail.com"
+        ],
+        "twitter": "@tomhschmidt",
+        "github": "tomhschmidt",
+        "linkedin":"linkhere"
+    }
+}
